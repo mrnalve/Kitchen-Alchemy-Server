@@ -1,0 +1,56 @@
+[
+  {
+    "id": "01",
+    "picture": "https://example.com/chef1.jpg",
+    "name": "Jean-Pierre LeBlanc",
+    "description": "Chef Jean-Pierre LeBlanc has over 20 years of experience in the culinary industry, specializing in French cuisine. He is particularly known for his signature dishes, such as Coq au Vin and Escargots de Bourgogne. Chef LeBlanc's passion for cooking began at a young age, when he would help his mother prepare meals in the kitchen. After honing his skills in top restaurants in France and around the world, he now manages a successful restaurant franchise, where he creates innovative dishes and trains his staff to provide excellent customer service.",
+    "years_of_experience": 20,
+    "number_of_recipes": 50,
+    "likes": 500
+  },
+  {
+    "id": "02",
+    "picture": "https://example.com/chef2.jpg",
+    "name": "Isabelle Dubois",
+    "description": "Chef Isabelle Dubois is a master of French haute cuisine, having worked in Michelin-starred restaurants in Paris. She is particularly known for her exquisite desserts, including tarte tatin and crème brûlée. Chef Dubois is a perfectionist when it comes to her cooking, and is always experimenting with new flavors and techniques. She is passionate about using only the freshest ingredients and creating dishes that are both visually stunning and delicious. Chef Dubois now runs her own successful restaurant franchise, where she shares her love of French cuisine with her customers.",
+    "years_of_experience": 15,
+    "number_of_recipes": 30,
+    "likes": 300
+  },
+  {
+    "id": "03",
+    "picture": "https://example.com/chef3.jpg",
+    "name": "Lucien Martin",
+    "description": "Chef Lucien Martin is a specialist in charcuterie, having learned his craft in Lyon. He is an expert in pâtés, terrines, and sausages, and uses only the finest ingredients to create his dishes. Chef Martin's passion for cooking began when he was a young boy, and he has honed his skills over more than 25 years in the industry. He now manages his own successful restaurant franchise, where he oversees the production of his charcuterie dishes and trains his staff to provide excellent customer service.",
+    "years_of_experience": 25,
+    "number_of_recipes": 20,
+    "likes": 200
+  },
+  {
+    "id": "04",
+    "picture": "https://example.com/chef4.jpg",
+    "name": "Francois Dubois",
+    "description": "Chef Francois Dubois is a protégé of Alain Ducasse, and has worked in some of the finest restaurants in France. He is particularly known for his classic French dishes, such as bouillabaisse and cassoulet. Chef Dubois is a perfectionist when it comes to his cooking, and is always looking for ways to improve his dishes. He is passionate about using only the freshest ingredients and creating dishes that are both beautiful and delicious. Chef Dubois now runs his own successful restaurant franchise, where he shares his love of French cuisine with his customers.",
+    "years_of_experience": 18,
+    "number_of_recipes": 40,
+    "likes": 400
+  },
+  {
+    "id": "05",
+    "picture": "https://example.com/chef5.jpg",
+    "name": "Celine Dupont",
+    "description": "Chef Celine Dupont is an expert in regional French cuisine, with a particular passion for the food of Provence. She is particularly known for her ratatouille and bouillabaisse. Chef Dupont's love of cooking began when she was a young girl, and she has honed her skills over more than 12 years in the industry. She now manages her own successful restaurant franchise, where she creates dishes that showcase the flavors and ingredients of the region, and trains her staff to provide excellent customer service.",
+    "years_of_experience": 12,
+    "number_of_recipes": 25,
+    "likes": 250
+  },
+  {
+    "id": "06",
+    "picture": "https://example.com/chef6.jpg",
+    "name": "Jacques Moreau",
+    "description": "Chef Jacques Moreau is a specialist in French pastry, having trained at Le Cordon Bleu in Paris. He is particularly known for his macarons and croissants, which are as beautiful as they are delicious. Chef Moreau's passion for pastry began when he was a young boy, and he has honed his skills over more than 10 years in the industry. He now manages his own successful restaurant franchise, where he creates stunning desserts that are the perfect end to any meal.",
+    "years_of_experience": 10,
+    "number_of_recipes": 15,
+    "likes": 150
+  }
+]
