@@ -1,56 +1,56 @@
 [
   {
-    "id": "01",
-    "picture": "https://example.com/chef1.jpg",
-    "name": "Jean-Pierre LeBlanc",
-    "description": "Chef Jean-Pierre LeBlanc has over 20 years of experience in the culinary industry, specializing in French cuisine. He is particularly known for his signature dishes, such as Coq au Vin and Escargots de Bourgogne. Chef LeBlanc's passion for cooking began at a young age, when he would help his mother prepare meals in the kitchen. After honing his skills in top restaurants in France and around the world, he now manages a successful restaurant franchise, where he creates innovative dishes and trains his staff to provide excellent customer service.",
-    "years_of_experience": 20,
-    "number_of_recipes": 50,
-    "likes": 500
+    "id": 1,
+    "name": "Joël Robuchon",
+    "picture": "https://i.ibb.co/dgLnD5T/Jo-l-Robuchon.jpg",
+    "description": "Joël Robuchon was a French chef and restaurateur, with numerous Michelin stars to his name. He was known for his focus on high-quality ingredients and for his minimalist cooking style that showcased the flavors of each ingredient. Robuchon was the first chef to be awarded three Michelin stars for his restaurant Jamin in Paris, and went on to open several more highly acclaimed restaurants around the world. He was considered one of the greatest chefs of his generation.",
+    "years_of_experience": 50,
+    "number_of_recipes": 1000,
+    "likes": 10000
   },
   {
-    "id": "02",
-    "picture": "https://example.com/chef2.jpg",
-    "name": "Isabelle Dubois",
-    "description": "Chef Isabelle Dubois is a master of French haute cuisine, having worked in Michelin-starred restaurants in Paris. She is particularly known for her exquisite desserts, including tarte tatin and crème brûlée. Chef Dubois is a perfectionist when it comes to her cooking, and is always experimenting with new flavors and techniques. She is passionate about using only the freshest ingredients and creating dishes that are both visually stunning and delicious. Chef Dubois now runs her own successful restaurant franchise, where she shares her love of French cuisine with her customers.",
-    "years_of_experience": 15,
-    "number_of_recipes": 30,
-    "likes": 300
-  },
-  {
-    "id": "03",
-    "picture": "https://example.com/chef3.jpg",
-    "name": "Lucien Martin",
-    "description": "Chef Lucien Martin is a specialist in charcuterie, having learned his craft in Lyon. He is an expert in pâtés, terrines, and sausages, and uses only the finest ingredients to create his dishes. Chef Martin's passion for cooking began when he was a young boy, and he has honed his skills over more than 25 years in the industry. He now manages his own successful restaurant franchise, where he oversees the production of his charcuterie dishes and trains his staff to provide excellent customer service.",
+    "id": 2,
+    "name": "Anne-Sophie Pic",
+    "picture": "https://i.ibb.co/LndyrQL/Anne-Sophie-Pic.jpg",
+    "description": "Anne-Sophie Pic is a French chef and the only woman in France to hold three Michelin stars for her restaurant, Maison Pic, in Valence. She is a fourth-generation chef, following in the footsteps of her father and grandfather, and has become known for her elegant and sophisticated cuisine. Pic is known for her inventive use of herbs and spices, and for her focus on seasonal ingredients. She has been named Best Female Chef by The World's 50 Best Restaurants, and continues to push the boundaries of French cuisine.",
     "years_of_experience": 25,
-    "number_of_recipes": 20,
-    "likes": 200
+    "number_of_recipes": 500,
+    "likes": 8000
   },
   {
-    "id": "04",
-    "picture": "https://example.com/chef4.jpg",
-    "name": "Francois Dubois",
-    "description": "Chef Francois Dubois is a protégé of Alain Ducasse, and has worked in some of the finest restaurants in France. He is particularly known for his classic French dishes, such as bouillabaisse and cassoulet. Chef Dubois is a perfectionist when it comes to his cooking, and is always looking for ways to improve his dishes. He is passionate about using only the freshest ingredients and creating dishes that are both beautiful and delicious. Chef Dubois now runs his own successful restaurant franchise, where he shares his love of French cuisine with his customers.",
-    "years_of_experience": 18,
-    "number_of_recipes": 40,
-    "likes": 400
+    "id": 3,
+    "name": "Guy Savoy",
+    "picture": "https://i.ibb.co/VNXLzjB/Guy-Savoy.jpg",
+    "description": "Guy Savoy is a French chef and restaurateur, with multiple Michelin-starred restaurants around the world. He is known for his classic French cuisine, which he infuses with contemporary touches to create dishes that are both timeless and modern. Savoy's restaurants are known for their impeccable service and luxurious atmosphere, and his dishes are celebrated for their balance of flavors and textures. Savoy has been awarded numerous accolades throughout his career, including the title of Chevalier de la Légion d'Honneur.",
+    "years_of_experience": 40,
+    "number_of_recipes": 700,
+    "likes": 9000
   },
   {
-    "id": "05",
-    "picture": "https://example.com/chef5.jpg",
-    "name": "Celine Dupont",
-    "description": "Chef Celine Dupont is an expert in regional French cuisine, with a particular passion for the food of Provence. She is particularly known for her ratatouille and bouillabaisse. Chef Dupont's love of cooking began when she was a young girl, and she has honed her skills over more than 12 years in the industry. She now manages her own successful restaurant franchise, where she creates dishes that showcase the flavors and ingredients of the region, and trains her staff to provide excellent customer service.",
-    "years_of_experience": 12,
-    "number_of_recipes": 25,
-    "likes": 250
+    "id": 4,
+    "name": "Alain Passard",
+    "picture": "https://i.ibb.co/X3WYWKk/Alain-Passard.jpg",
+    "description": "Alain Passard is a French chef and owner of the three-Michelin-starred restaurant L'Arpège in Paris. He is known for his focus on vegetables, which he sources from his own organic garden outside of the city. Passard's cooking is characterized by its simplicity and elegance, and he is known for his use of classic French techniques to create dishes that highlight the natural flavors of his ingredients. He has been named Best Chef in the World by Le Chef, and continues to be a leader in the culinary world.",
+    "years_of_experience": 35,
+    "number_of_recipes": 600,
+    "likes": 7500
   },
   {
-    "id": "06",
-    "picture": "https://example.com/chef6.jpg",
-    "name": "Jacques Moreau",
-    "description": "Chef Jacques Moreau is a specialist in French pastry, having trained at Le Cordon Bleu in Paris. He is particularly known for his macarons and croissants, which are as beautiful as they are delicious. Chef Moreau's passion for pastry began when he was a young boy, and he has honed his skills over more than 10 years in the industry. He now manages his own successful restaurant franchise, where he creates stunning desserts that are the perfect end to any meal.",
-    "years_of_experience": 10,
-    "number_of_recipes": 15,
-    "likes": 150
+    "id": 5,
+    "name": "Yannick Alléno",
+    "picture": "https://i.ibb.co/NxCKYDn/Yannick-All-no.jpg",
+    "description": "Yannick Alléno is a French chef and restaurateur, with multiple Michelin-starred restaurants in France and around the world. He is known for his innovative approach to French cuisine, which often involves deconstructing traditional dishes and putting them back together in new and unexpected ways. Alléno is also a champion of local and seasonal ingredients, and has been known to work closely with farmers and producers to ensure the highest quality ingredients for his dishes. He has been named Best Chef in the World by Le Chef, and continues to be a leading figure in the culinary world.",
+    "years_of_experience": 30,
+    "number_of_recipes": 800,
+    "likes": 8500
+  },
+  {
+    "id": 6,
+    "name": "Hélène Darroze",
+    "picture": "https://i.ibb.co/M5JTd69/H-l-ne-Darroze.jpg",
+    "description": "Hélène Darroze is a French chef and restaurateur, with restaurants in Paris, London, and Moscow. She is known for her inventive and sophisticated cuisine, which blends classic French techniques with international flavors and influences. Darroze is also a champion of women in the culinary world, and has been named World's Best Female Chef by The World's 50 Best Restaurants. She is known for her dedication to quality ingredients, and often sources ingredients directly from farmers and producers. Darroze continues to be a leading figure in the world of French cuisine.",
+    "years_of_experience": 25,
+    "number_of_recipes": 500,
+    "likes": 7500
   }
 ]
