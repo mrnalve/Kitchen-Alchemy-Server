@@ -46,7 +46,7 @@
     "recipe_name": "Fried Rice",
     "ingredients": ["rice", "egg", "soy sauce", "carrots", "peas", "garlic"],
     "cooking_method": "1. Cook rice according to package instructions and set aside. 2. Heat oil in a large skillet or wok over high heat. 3. Add beaten egg and scramble until cooked. 4. Add garlic, carrots, and peas and cook until softened. 5. Add cooked rice and soy sauce and stir until combined. 6. Cook for an additional 2-3 minutes until heated through.",
-    "rating": 4.0
+    "rating": 4.1
   },
   {
     "id": 3,
@@ -116,7 +116,7 @@
       "tomatoes"
     ],
     "cooking_method": "1. Chop carrots, onion, celery, and potatoes into bite-sized pieces. 2. Heat oil in a large pot over medium-high heat. 3. Add chopped vegetables and cook until softened. 4. Add green beans and tomatoes and enough water to cover the vegetables. 5. Bring to a boil and simmer for 20-30 minutes, or until vegetables are fully cooked. 6. Season with salt and pepper to taste. 7. Serve hot.",
-    "rating": 4.0
+    "rating": 4.5
   },
   {
     "id": 2,
