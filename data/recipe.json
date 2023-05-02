@@ -1,0 +1,246 @@
+[
+  {
+    "id": 6,
+    "recipe_name": "Grilled Chicken",
+    "ingredients": [
+      "chicken breasts",
+      "olive oil",
+      "garlic",
+      "lemon juice",
+      "salt",
+      "black pepper"
+    ],
+    "cooking_method": "1. Mix olive oil, garlic, lemon juice, salt and black pepper in a bowl. 2. Coat chicken breasts in the mixture. 3. Grill the chicken over medium-high heat for 6-8 minutes on each side, or until fully cooked.",
+    "rating": 4.5
+  },
+  {
+    "id": 4,
+    "recipe_name": "Spaghetti Bolognese",
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onion",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "1. Cook spaghetti according to package instructions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add ground beef and cook until browned. 4. Add onion and garlic and cook until softened. 5. Pour in tomato sauce and bring to a simmer. 6. Serve sauce over cooked spaghetti.",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "recipe_name": "Chicken Curry",
+    "ingredients": [
+      "chicken thighs",
+      "curry powder",
+      "coconut milk",
+      "onion",
+      "garlic",
+      "ginger"
+    ],
+    "cooking_method": "1. Heat a large saucepan over medium-high heat. 2. Add curry powder and cook for 1-2 minutes until fragrant. 3. Add chicken thighs and cook until browned. 4. Add onion, garlic, and ginger and cook until softened. 5. Pour in coconut milk and bring to a simmer. 6. Simmer for 20-25 minutes, or until the chicken is cooked through.",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "recipe_name": "Fried Rice",
+    "ingredients": ["rice", "egg", "soy sauce", "carrots", "peas", "garlic"],
+    "cooking_method": "1. Cook rice according to package instructions and set aside. 2. Heat oil in a large skillet or wok over high heat. 3. Add beaten egg and scramble until cooked. 4. Add garlic, carrots, and peas and cook until softened. 5. Add cooked rice and soy sauce and stir until combined. 6. Cook for an additional 2-3 minutes until heated through.",
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "recipe_name": "Baked Salmon",
+    "ingredients": [
+      "salmon fillet",
+      "olive oil",
+      "lemon",
+      "salt",
+      "black pepper",
+      "dill"
+    ],
+    "cooking_method": "1. Preheat oven to 400°F. 2. Place salmon fillet in a baking dish and brush with olive oil. 3. Squeeze lemon over the top of the fillet and season with salt, black pepper, and dill. 4. Bake for 12-15 minutes or until cooked through.",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "recipe_name": "Chicken Alfredo",
+    "ingredients": [
+      "fettuccine",
+      "chicken breasts",
+      "heavy cream",
+      "parmesan cheese",
+      "garlic",
+      "salt"
+    ],
+    "cooking_method": "1. Cook fettuccine according to package instructions. 2. Season chicken breasts with salt and pepper and cook in a skillet until browned and fully cooked. 3. Remove chicken from skillet and set aside. 4. Add garlic to the skillet and cook until fragrant. 5. Pour in heavy cream and bring to a simmer. 6. Add grated parmesan cheese and stir until melted. 7. Add cooked fettuccine to the skillet and toss until coated in the sauce. 8. Slice the chicken and place on top of the pasta. Serve hot.",
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "recipe_name": "Taco Salad",
+    "ingredients": [
+      "ground beef",
+      "taco seasoning",
+      "lettuce",
+      "tomatoes",
+      "avocado",
+      "cheddar cheese"
+    ],
+    "cooking_method": "1. Brown ground beef in a skillet over medium-high heat. 2. Add taco seasoning and stir until fully combined. 3. Set aside to cool. 4. In a large bowl, combine chopped lettuce, diced tomatoes, sliced avocado, and shredded cheddar cheese. 5. Add the cooled ground beef to the bowl and toss to combine. 6. Serve with your favorite dressing.",
+    "rating": 4.1
+  },
+  {
+    "id": 4,
+    "recipe_name": "Beef Stir-Fry",
+    "ingredients": [
+      "beef sirloin",
+      "soy sauce",
+      "hoisin sauce",
+      "cornstarch",
+      "green onions",
+      "red bell pepper"
+    ],
+    "cooking_method": "1. Slice beef sirloin into thin strips. 2. Mix soy sauce, hoisin sauce, and cornstarch in a bowl. 3. Heat oil in a wok over high heat. 4. Add beef strips and cook until browned. 5. Add sliced green onions and red bell pepper and stir-fry for an additional 2-3 minutes. 6. Pour in the sauce and stir until fully coated. 7. Serve hot with rice.",
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "recipe_name": "Vegetable Soup",
+    "ingredients": [
+      "carrots",
+      "onion",
+      "celery",
+      "potatoes",
+      "green beans",
+      "tomatoes"
+    ],
+    "cooking_method": "1. Chop carrots, onion, celery, and potatoes into bite-sized pieces. 2. Heat oil in a large pot over medium-high heat. 3. Add chopped vegetables and cook until softened. 4. Add green beans and tomatoes and enough water to cover the vegetables. 5. Bring to a boil and simmer for 20-30 minutes, or until vegetables are fully cooked. 6. Season with salt and pepper to taste. 7. Serve hot.",
+    "rating": 4.0
+  },
+  {
+    "id": 2,
+    "recipe_name": "Chicken Alfredo",
+    "ingredients": [
+      "fettuccine",
+      "chicken breasts",
+      "heavy cream",
+      "parmesan cheese",
+      "garlic",
+      "salt"
+    ],
+    "cooking_method": "1. Cook fettuccine according to package instructions. 2. Season chicken breasts with salt and pepper and cook in a skillet until browned and fully cooked. 3. Remove chicken from skillet and set aside. 4. Add garlic to the skillet and cook until fragrant. 5. Pour in heavy cream and bring to a simmer. 6. Add grated parmesan cheese and stir until melted. 7. Add cooked fettuccine to the skillet and toss until coated in the sauce. 8. Slice the chicken and place on top of the pasta. Serve hot.",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "recipe_name": "Beef Stew",
+    "ingredients": [
+      "beef stew meat",
+      "carrots",
+      "potatoes",
+      "onion",
+      "beef broth",
+      "flour"
+    ],
+    "cooking_method": "1. Heat oil in a large pot or Dutch oven over medium-high heat. 2. Add beef and cook until browned on all sides. 3. Remove beef and set aside. 4. Add onion and cook until softened. 5. Add flour and stir until combined. 6. Pour in beef broth and bring to a simmer. 7. Add beef back to the pot and simmer for 1.5-2 hours. 8. Add carrots and potatoes and simmer for an additional 30-45 minutes or until vegetables are tender.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "recipe_name": "Shrimp Scampi",
+    "ingredients": [
+      "spaghetti",
+      "shrimp",
+      "butter",
+      "garlic",
+      "lemon juice",
+      "white wine"
+    ],
+    "cooking_method": "1. Cook spaghetti according to package instructions. 2. Melt butter in a large skillet over medium-high heat. 3. Add shrimp and cook until pink. 4. Add garlic and cook for an additional 30 seconds. 5. Pour in lemon juice and white wine and bring to a simmer. 6. Serve shrimp and sauce over cooked spaghetti.",
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "recipe_name": "Veggie Burger",
+    "ingredients": [
+      "black beans",
+      "bread crumbs",
+      "egg",
+      "bell pepper",
+      "onion",
+      "garlic"
+    ],
+    "cooking_method": "1. Mash black beans in a large bowl. 2. Add bread crumbs, egg, bell pepper, onion, and garlic to the bowl and mix well. 3. Form the mixture into patties. 4. Heat oil in a large skillet over medium-high heat. 5. Cook the patties for 3-4 minutes on each side, or until golden brown.",
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "recipe_name": "Fettuccine Alfredo",
+    "ingredients": [
+      "fettuccine",
+      "heavy cream",
+      "butter",
+      "parmesan cheese",
+      "garlic"
+    ],
+    "cooking_method": "1. Cook fettuccine according to package instructions. 2. In a large saucepan, heat butter and heavy cream over medium heat. 3. Add garlic and cook until fragrant. 4. Gradually stir in parmesan cheese until melted and well combined. 5. Serve sauce over cooked fettuccine.",
+    "rating": 4.8
+  },
+  {
+    "id": 1,
+    "recipe_name": "Vegetable Frittata",
+    "ingredients": [
+      "eggs",
+      "milk",
+      "spinach",
+      "mushrooms",
+      "tomatoes",
+      "cheddar cheese"
+    ],
+    "cooking_method": "1. Preheat oven to 350°F. 2. Whisk eggs and milk together in a bowl. 3. Sauté spinach and mushrooms in an oven-safe skillet. 4. Add diced tomatoes to the skillet. 5. Pour egg mixture over the vegetables. 6. Sprinkle cheddar cheese over the top. 7. Bake in the oven for 20-25 minutes, or until the frittata is set.",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "recipe_name": "Roasted Vegetable Quinoa Bowl",
+    "ingredients": [
+      "quinoa",
+      "sweet potato",
+      "broccoli",
+      "red onion",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "1. Cook quinoa according to package instructions. 2. Preheat oven to 400°F. 3. Chop sweet potato, broccoli, and red onion into bite-sized pieces. 4. Toss vegetables in olive oil and garlic. 5. Roast vegetables in the oven for 25-30 minutes, stirring occasionally. 6. Serve roasted vegetables over cooked quinoa.",
+    "rating": 4.2
+  },
+  {
+    "id": 1,
+    "recipe_name": "Greek Salad",
+    "ingredients": [
+      "romaine lettuce",
+      "tomato",
+      "cucumber",
+      "red onion",
+      "feta cheese",
+      "olive oil"
+    ],
+    "cooking_method": "1. Wash and chop romaine lettuce and place in a large salad bowl. 2. Chop tomatoes, cucumber, and red onion and add to the bowl. 3. Crumble feta cheese over the top. 4. Drizzle olive oil over the salad. 5. Toss the salad until well combined.",
+    "rating": 4.6
+  },
+  {
+    "id": 1,
+    "recipe_name": "Beef Stir-Fry",
+    "ingredients": [
+      "beef sirloin",
+      "soy sauce",
+      "cornstarch",
+      "broccoli",
+      "carrot",
+      "garlic"
+    ],
+    "cooking_method": "1. Thinly slice beef sirloin and toss with cornstarch. 2. In a small bowl, mix soy sauce with 1/4 cup of water. 3. Heat oil in a wok or large skillet over high heat. 4. Add beef and cook until browned on all sides. 5. Add garlic, broccoli, and carrot and cook until vegetables are tender. 6. Pour in the soy sauce mixture and cook for an additional 1-2 minutes until the sauce has thickened.",
+    "rating": 4.3
+  }
+]
